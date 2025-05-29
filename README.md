@@ -1,4 +1,5 @@
-# Patch-Recovery-Revived
+[![Patch recovery for fastbootd](https://github.com/galaxy-darkerdroid/patch-recovery-revived/actions/workflows/patch-recovery.yml/badge.svg)](https://github.com/galaxy-darkerdroid/patch-recovery-revived/actions/workflows/patch-recovery.yml)
+# Patch-Recovery-Revived for Galaxy Note20 Ultra 5G
 
 The only working `patch-recovery` tool that ever lived to patch Samsung's recovery images to enable **fastbootd mode**.
 
