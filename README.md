@@ -5,7 +5,7 @@ The only working `patch-recovery` tool that ever lived to patch Samsung's recove
 <details>
   <summary>Click to view image</summary>
 
-  <img src="./resources/1.jpg" alt="Preview" width="600"/>
+Not available bruh
 
 </details>
 
@@ -58,6 +58,8 @@ Use the GitHub Actions workflow to automate the process:
 If the tool does not enable fastboot mode for your device, please start an issue on GitHub. Make sure to upload the `recovery.img` file so the issue can be investigated.
 
 ## Credits
+
+Forked and builded for Note20 Ultra by @galaxy-darkerdroid
 
 Developed by [@ravindu644](https://github.com/ravindu644).
 
